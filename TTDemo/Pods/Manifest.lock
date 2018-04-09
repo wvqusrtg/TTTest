@@ -1,0 +1,18 @@
+PODS:
+  - RegexKitLite-NoWarning (1.1.0)
+  - SDAutoLayout (2.2.0)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - RegexKitLite-NoWarning
+  - SDAutoLayout
+  - YYText
+
+SPEC CHECKSUMS:
+  RegexKitLite-NoWarning: 45dda57c3152fa653ccd861e8e7984d211dd449c
+  SDAutoLayout: 8c2cd1f100dff43df1f36bf18ce7cf618ab53b61
+  YYText: 23b00e89de6f7aae8a819627a12d4ba96889ece5
+
+PODFILE CHECKSUM: 957b1b87d7852f74272938f7c834f53d500e1cba
+
+COCOAPODS: 1.2.0
